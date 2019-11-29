@@ -1,0 +1,26 @@
+{
+    "name": "WordCamp Kochi",
+    "short_name": "WordCampKochi",
+    "description": "Live event schedule updation page of WordCamp Kochi 2019",
+    "start_url": "https://demo.zerobulb.com/qts/",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#2A8146",
+    "manifest_version": 3,
+    "author": "Jose Varghese",
+    "homepage_url": "http://github.com/josevarghese/liveschedule",
+    "theme_color": "#66B1FD",
+    "scope": "https://demo.zerobulb.com/qts/",
+    "icons": [
+      {
+        "src": "https://demo.zerobulb.com/qts/assets/wc512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      },
+      {
+        "src": "https://demo.zerobulb.com/qts/assets/wc192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ]
+  }
