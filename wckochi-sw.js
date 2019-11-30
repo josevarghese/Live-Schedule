@@ -5,9 +5,9 @@
  * @twitter: IamJoseVarghese
  */
 const cacheName = 'wordcampkochi.20.19';
-const startPage = 'https://demo.zerobulb.com/qts/';
-const offlineFallbackPage = 'https://demo.zerobulb.com/qts/';
-const filesToCache = [startPage, offlineFallbackPage, 'https://demo.zerobulb.com/qts'];
+const startPage = 'https://wc.wpkochi.org/';
+const offlineFallbackPage = 'https://wc.wpkochi.org/';
+const filesToCache = [startPage, offlineFallbackPage, 'https://wc.wpkochi.org/'];
 
 // Install stage sets up the offline page in the cache and opens a new cache
 self.addEventListener('install', function(e) {
