@@ -10,3 +10,4 @@ Key features:
 
 
 Credits : The application is developed by <a href="https://github.com/limhenry">Henry Lim</a>. I just added PWA, Dark Mode and Auto Updation onto the top of his code.
+CSS Tweaks by: <a href="https://github.com/ajithrn/">Ajith R.N</a>
